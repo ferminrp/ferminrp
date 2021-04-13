@@ -1,3 +1,5 @@
+![]('images/gradient.png')
+
 ### Hola, sor Fermín 👋
 ---
 
