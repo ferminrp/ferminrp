@@ -1,7 +1,11 @@
-![](./images/gradient.png)
+![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png?raw=true')
 
 ### Hola, sor Fermín 👋
 ---
+
+Actualmente trabajo en Producto Investments en Mercado Pago. 
+
+Pero cada tanto me meto en Data Science y Machine Learning con Python, y desarrollo Web con Node, Express y React.
 
 <!--
 **ferminrp/ferminrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png?raw=true')
