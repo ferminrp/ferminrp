@@ -1,4 +1,4 @@
-![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png')
+![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png?raw=true')
 
 ### Hola, sor Fermín 👋
 ---
