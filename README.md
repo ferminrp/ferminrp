@@ -1,6 +1,6 @@
-![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png?raw=true')
+![](./images/gradient.png)
 
-### Hola, sor Fermín 👋
+### Hola, soy Fermín 👋
 ---
 
 Actualmente trabajo en Producto Investments en Mercado Pago. 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![]('https://github.com/ferminrp/ferminrp/blob/main/images/gradient.png?raw=true')
+![](./images/gradient.png)
