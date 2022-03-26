@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ferminrp" target="blank"><img src="https://img.shields.io/twitter/follow/ferminrp?logo=twitter&style=for-the-badge" alt="ferminrp" /></a> </p>
 
-- 🔭 I’m currently working on [Mercado Pago](https://mercadopago.com)
+- 🔭 I’m currently working on [belo.app](https://simple.belo.app/app/referral?referralId=8cNBuoEM&campaign=REVENUE_SHARING)
 
 - 🌱 I’m currently learning **Svelte.js**
 
